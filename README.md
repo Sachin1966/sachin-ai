@@ -61,7 +61,7 @@ class Sachin():
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,flask,fastapi,react,nodejs,mongodb,mysql,docker,git,github,vscode,linux" />
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,flask,fastapi,react,mysql,docker,git,github,vscode,antigravity,cursor,windsurf" />
 
 </div>
 
