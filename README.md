@@ -1,150 +1,202 @@
-<h1 align="center">Hey 👋, I'm Sachin</h1>
-<h3 align="center">🚀 AI Engineer | Generative AI Developer | Python Developer</h3>
+<div align="center">
+
+# ⚡ SACHIN A ⚡
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=35&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=140&lines=AI+Engineer+%7C+ML+Engineer;Generative+AI+%26+LLM+Systems;RAG+Pipeline+Architect;Building+Production+Grade+AI+Applications" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:6A00FF&height=220&section=header&text=Future%20AI%20Engineer&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+
+</div>
+
+---
+
+# 🌌 ABOUT ME
+
+```python
+class Sachin():
+    def __init__(self):
+        self.role = "AI Engineer"
+        self.language = ["Python", "JavaScript"]
+        self.specialization = [
+            "Generative AI",
+            "RAG Pipelines",
+            "LLM Fine-Tuning",
+            "Deep Learning",
+            "NLP"
+        ]
+        
+    def current_focus(self):
+        return "Building production-grade AI systems"
+```
+
+🚀 Final Year B.Tech AI & ML Student  
+⚡ Building Production-Level RAG & LLM Systems  
+🧠 Fine-Tuning Transformer Models  
+📚 Published Research Papers  
+🔥 Passionate About Generative AI & ML Engineering  
+
+---
+
+# 🌐 CONNECT WITH ME
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=AI+Engineer;Generative+AI+Developer;RAG+%26+LLM+Builder;Python+Full+Stack+Developer;Open+Source+Learner" />
-</p>
 
----
-
-# 💫 About Me
-
-🎓 Passionate AI & Software Developer  
-🤖 Building Generative AI, RAG & ML Projects  
-🚀 Exploring LLM Fine-Tuning & AI Systems  
-🐍 Python Full Stack Developer  
-📚 Constantly learning new technologies  
-⚡ Love building futuristic AI applications  
-
----
-
-# 🌐 Connect With Me
-
-<p align="left">
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+<a href="https://github.com/Sachin1966">
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://linkedin.com/in/sachin-a">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL@gmail.com">
+<a href="mailto:asachin1966@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+
 </p>
 
 ---
 
-# 🚀 Tech Stack
+# ⚔️ TECH ARSENAL
 
-## 👨‍💻 Languages
+<div align="center">
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,javascript,java,c,cpp,html,css" />
-</p>
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,flask,fastapi,react,nodejs,mongodb,mysql,docker,git,github,vscode,linux" />
 
-## ⚡ Frameworks & Libraries
-
-<p>
-<img src="https://skillicons.dev/icons?i=flask,fastapi,streamlit,react,nodejs,tensorflow,pytorch" />
-</p>
-
-## 🗄️ Database & Cloud
-
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,supabase" />
-</p>
-
-## 🛠️ Tools & Platforms
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,linux,postman" />
-</p>
+</div>
 
 ---
 
-# 🧠 AI & ML Skills
+# 🧠 AI / ML EXPERTISE
 
-✅ Generative AI  
-✅ Retrieval Augmented Generation (RAG)  
-✅ Large Language Models (LLMs)  
-✅ Vector Databases  
-✅ Prompt Engineering  
-✅ Deep Learning  
-✅ NLP  
-✅ Computer Vision  
-✅ CNN & Neural Networks  
-✅ AI Chatbots  
+<div align="center">
 
----
+<img src="https://img.shields.io/badge/Generative_AI-00F7FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RAG_Pipelines-6A00FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LLM_Fine_Tuning-FF00FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LangChain-00C853?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/ChromaDB-FF6D00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/HuggingFace-FFD600?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/NLP-00E5FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Computer_Vision-FF1744?style=for-the-badge"/>
 
-# 🔥 Featured Projects
-
-## 🚀 ContextEngine
-Advanced RAG-based AI Context System with memory & semantic retrieval.
-
-## 🌕 LunaLands
-AI-powered Moon & Earth landslide detection using satellite imagery.
-
-## 📚 AI Library Management System
-Smart LMS with Ollama-powered chatbot integration.
-
-## 🛒 Smart Shopping Cart
-IoT-based intelligent shopping experience.
-
-## 🔐 AI Cyber Forensics Toolkit
-Cybersecurity & digital forensics analysis toolkit.
+</div>
 
 ---
 
-# 📊 GitHub Stats
+# 🚀 FEATURED PROJECTS
 
-<p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
-</p>
+## 🧠 ContextEngine
+### Production RAG & LLM Pipeline
 
----
+⚡ PDF ingestion → Semantic Chunking → ChromaDB → Citation-Grounded LLM Generation  
+📉 Reduced hallucinations by **43%**  
+🔍 Supports multi-document semantic retrieval  
 
-# 🔥 GitHub Streak
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight"/>
-</p>
+### ⚙️ Stack
+`Python` `LangChain` `ChromaDB` `SentenceTransformers` `HuggingFace`
 
 ---
 
-# 🏆 GitHub Trophies
+## 📡 Autonomous Telemetry Generation Agent
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&row=1&column=7"/>
-</p>
+⚡ LSTM-VAE based synthetic telemetry generation  
+📊 Trained on **50K+ telemetry records**  
+⏱️ Reduced manual test data generation by **70%**
 
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
-</p>
+### ⚙️ Stack
+`PyTorch` `LSTM` `VAE` `Streamlit`
 
 ---
 
-# 🐍 Contribution Snake
+## 🔐 Cyber Forensic Toolkit
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/snake.svg" alt="Snake animation" />
-</p>
+⚡ ML-powered cyber threat detection system  
+🎯 98% Accuracy | F1 Score: 0.97  
+🛡️ URL + Email + Packet-level threat analysis  
+
+### ⚙️ Stack
+`Scikit-learn` `Random Forest` `Gradient Boosting`
 
 ---
 
-# ✨ Quote
+# 🏆 EXPERIENCE
 
-<p align="center">
+## 💼 ML Engineer Intern — Cognifyz Technologies
+
+🧠 Fine-tuned BERT sentiment classifier  
+📈 Achieved 91% validation accuracy  
+⚡ Built Flask REST API deployment  
+⏳ Reduced preprocessing time by 40%
+
+---
+
+# 📊 GITHUB ANALYTICS
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sachin1966&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sachin1966&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+
+</div>
+
+---
+
+# 🔥 CONTRIBUTION STREAK
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Sachin1966&theme=tokyonight&hide_border=true&background=0D1117"/>
+
+</div>
+
+---
+
+# 🐍 CONTRIBUTION SNAKE
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Sachin1966/Sachin1966/output/snake.svg" />
+
+</div>
+
+---
+
+# 🏆 GITHUB TROPHIES
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Sachin1966&theme=tokyonight&row=1&column=7"/>
+
+</div>
+
+---
+
+# 📈 ACTIVITY GRAPH
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sachin1966&theme=tokyo-night"/>
+
+</div>
+
+---
+
+# ⚡ RANDOM DEV QUOTE
+
+<div align="center">
+
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-</p>
+
+</div>
 
 ---
 
-<h3 align="center">⚡ Building The Future With AI ⚡</h3>
+<div align="center">
+
+# 🚀 BUILDING THE FUTURE WITH AI 🚀
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A00FF,100:00F7FF&height=120&section=footer"/>
+
+</div>
