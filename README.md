@@ -61,8 +61,12 @@ class Sachin():
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,flask,fastapi,react,mysql,docker,git,github,vscode,antigravity,cursor,windsurf" />
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,flask,react,mysql,git,github,vscode" />
 
+<br><br>
+
+<img src="https://img.shields.io/badge/Cursor_AI-000000?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/Windsurf-0EA5E9?style=for-the-badge"/>
 </div>
 
 ---
